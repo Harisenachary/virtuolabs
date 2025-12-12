@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": "256d3e6e-c15a-4785-9433-ca8f071b7737",
+      "name": "sree lakshmi",
+      "email": "sreelakshmimb2746@gmail.com",
+      "passwordHash": "$2a$10$JJ4HY3gVyD.KwJDMFrpn5ecCqHrXFH1LSVBXCfURnnui/tTrZHKp.",
+      "progress": [],
+      "averageScore": 0,
+      "totalExperiments": 0
+    },
+    {
+      "id": "c3427838-1aad-4011-aac0-75e8ff5387fa",
+      "name": "Harisenachary",
+      "email": "harisenacharypuppala@gmail.com",
+      "passwordHash": "$2a$10$E0T7dc6pSZgz2KBZlrc/4uR62ReqQfkExps1RYmHqWtdP7IQvPbVe",
+      "progress": [],
+      "averageScore": 0,
+      "totalExperiments": 0
+    }
+  ],
+  "experiments": [
+    {
+      "id": "simple-pendulum",
+      "title": "Simple Pendulum",
+      "category": "Physics"
+    },
+    {
+      "id": "energy-gap",
+      "title": "Energy Gap of P-N Junction",
+      "category": "Physics"
+    },
+    {
+      "id": "iv-characteristics",
+      "title": "I-V Characteristics",
+      "category": "Electrical"
+    },
+    {
+      "id": "titration",
+      "title": "Acid-Base Titration",
+      "category": "Chemistry"
+    },
+    {
+      "id": "free-fall",
+      "title": "Free Fall Motion",
+      "category": "Physics"
+    },
+    {
+      "id": "projectile-motion",
+      "title": "Projectile Motion",
+      "category": "Physics"
+    },
+    {
+      "id": "circuit-analysis",
+      "title": "AC Circuit Analysis",
+      "category": "Electrical"
+    },
+    {
+      "id": "rlc-resonance",
+      "title": "RLC Resonance",
+      "category": "Electrical"
+    },
+    {
+      "id": "op-amp",
+      "title": "Op-Amp Amplifier",
+      "category": "Electrical"
+    },
+    {
+      "id": "hookes-law",
+      "title": "Hooke's Law",
+      "category": "Physics"
+    },
+    {
+      "id": "lens-optics",
+      "title": "Lens Optics",
+      "category": "Physics"
+    },
+    {
+      "id": "pid-control",
+      "title": "PID Control Tuning",
+      "category": "Advanced"
+    }
+  ]
+}
